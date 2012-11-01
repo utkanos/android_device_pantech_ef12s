@@ -1,0 +1,23 @@
+#
+# system.prop for ef12s
+#
+keyguard.no_require_sim=true
+ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html
+ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/privacy.html
+ro.com.google.clientidbase=android-google
+ro.com.android.wifi-watchlist=GoogleGuest
+ro.setupwizard.enterprise_mode=1
+ro.com.android.dateformat=MM-dd-yyyy
+ro.com.android.dataroaming=false
+ro.cm.version=10-20121011-UNOFFICIAL-ef12s
+ro.modversion=10-20121011-UNOFFICIAL-ef12s
+ro.config.ringtone=CyanTone.ogg
+ro.config.notification_sound=CyanMessage.ogg
+ro.config.alarm_alert=CyanAlarm.ogg
+ro.carrier=unknown
+ro.ril.hsxpa=1
+ro.ril.gprsclass=10
+ro.adb.qemud=1
+dalvik.vm.lockprof.threshold=500
+net.bt.name=Android
+dalvik.vm.stack-trace-file=/data/anr/traces.txt
